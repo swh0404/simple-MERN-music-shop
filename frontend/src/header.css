@@ -1,0 +1,195 @@
+@media only screen and (max-width: 400px){
+
+  .Musiccontent{
+    width: 100%
+  }
+}
+#bottomwrap {
+  display:flex;
+  flex-direction: row;
+}
+
+#headerwrap {
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid;
+}
+
+#invoicemsg{
+  border-top: 2px solid black;
+  text-align: center;
+}
+
+#headerwrap::after{
+  content: " ";
+  display: block; 
+  height: 0; 
+  clear: both;
+}
+
+#searchwrap {
+  width :100%;
+  float: left;
+}
+
+#searchwrap input{
+  height: 30px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-right: 1%;
+}
+
+#buttonwrap button{
+  float: right;  
+}
+
+#left{
+  width: 45%;
+  padding: 10px;
+  display:inline-block;
+}
+
+#login{
+  margin : 20px;
+  text-align: center;
+}
+
+#login input{
+  margin-bottom: 10px;
+}
+
+.checkoutform input{
+  margin-bottom: 3px;
+}
+
+.check-out-form-info{
+  border-bottom: 1px solid lightgray;
+  border-top: 1px solid lightgray;
+}
+
+#right{
+  width: 45%;
+  padding: 10px;
+  display:inline-block;
+}
+#checkout{
+  padding: 20px;
+}
+
+#checkoutheader{
+  width:100%;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  margin-top: 20px;
+}
+#Musiccontain{
+  padding: 20px;
+  border-left: 2px solid black;
+  width: 100%;
+}
+
+
+
+#sidebar{
+  width: 15%;
+  padding: 20px;
+}
+
+
+#cart{
+  padding: 20px;
+}
+
+.Musiccontent .title{
+  font-size: 200%;
+  font-style: italic;
+  font-weight: 900;
+}
+
+.Musiccontent img{
+  width: 100%;
+}
+
+.Musiccontent{
+  margin: 0 6%;
+  /* display: inline-block; */
+  width: 60%;
+}
+
+.CartObj div{
+  border: 1px solid;
+  margin: 5px 10px 5px 10px;
+  padding: 15px;
+}
+
+.header input{
+  /* width : 75% */
+  width: 83%;
+}
+
+.header button[type=submit]{
+  /* width: 13% */
+  width: 15%;
+}
+
+button {
+  background-color: lightblue;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  margin: 4px 2px;
+  border-radius: 12px;
+  border: 2px solid lightblue;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: white;
+  color: black; 
+}
+
+.homeBtnGroup{
+  display: flex;
+}
+
+.arrow{
+  margin: 0 10px;
+  margin-top: 7px;
+}
+
+.smallCat{
+  margin-top: 7px;
+}
+
+#musicDetail{
+  width: 40%;
+}
+
+#musicDetail img{
+  width:100%;
+}
+
+.arrival{
+  color: red;
+}
+
+.audio{
+  width: 100%;
+}
+
+p{
+  font-weight: bold;
+}
+
+span{
+  font-weight: bold;
+}
+
+.detail-music-name-tag{
+  position: absolute;
+  top: 19%;
+  left: 20%;
+}
