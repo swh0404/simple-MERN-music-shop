@@ -49,21 +49,7 @@ Files in the folder project:
 5. The file music.json: Stores the initial music data to be inserted into the database
 
 
-Work completed:
 
-• Correctness of the login page : yes
-• Correctness of the create account page :  yes
-• Correct functionality of verifying user’s login into the system : yes
-• Correct functionality of users’ account creation: yes 
-• Correct functionality of the main page : yes
-• Correct functionality of the category page : yes
-• Correct functionality of the music information page : yes
-• Correct functionality of the cart page : yes
-• Correct functionality of the checkout page : yes
-• Correct functionality of the invoice page : yes
-• Correct functionality of logout : yes 
-• Correct implementation of responsive web features in web pages: yes
-• CSS implementation in webpages: yes
 
 
 
